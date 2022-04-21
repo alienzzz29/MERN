@@ -1,0 +1,4 @@
+
+{
+    "mongoURI": "mongodb+srv://admin123:admin123@cluster0.vewzh.mongodb.net/schoolautomate?retryWrites=true&w=majority"
+}
